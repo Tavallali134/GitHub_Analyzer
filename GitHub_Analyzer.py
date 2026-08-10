@@ -97,6 +97,7 @@ class GitHubAnalyzer():
             print("Valid commands: info, followers, followings, diff, exit")
 
 async def main():
+    print("GitHub_Analyzer: Created by Amir Mohammad Tavallali Nia!")
     app = GitHubAnalyzer()
     
     while True:
