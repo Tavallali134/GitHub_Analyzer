@@ -7,7 +7,7 @@ GitHub Follower Analyzer
 
 A command-line tool to fetch and analyze GitHub followers and following data.
 
-# What it does
+## What it does
 
 This tool connects to the GitHub API and retrieves follower and following information for a given username. It allows you to view follower lists, following lists, and compare them to find mutual followers or identify who doesn't follow you back.
 
