@@ -154,7 +154,6 @@ Note: All commands are case-insensitive. Type 'exit' to quit.
         else:
             print(f"Invalid command: '{self.command}'")
 
-
 async def main():
     print("GitHub_Analyzer: Created by Amir Mohammad Tavallali Nia!")
 
